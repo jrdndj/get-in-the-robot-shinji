@@ -1,0 +1,13 @@
+experiment:
+  name: Get in the Robot Shinji Study
+  version: 1.0
+  participants: 12
+  conditions:
+    - open_cockpit
+    - semi_closed_cockpit
+    - enclosed_cockpit
+data_format:
+  - timestamp
+  - position
+  - orientation
+  - questionnaire_scores

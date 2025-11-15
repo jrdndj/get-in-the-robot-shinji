@@ -1,0 +1,65 @@
+
+---
+
+## Research Plan
+
+### Phase 1 — Literature Review  
+A systematic review combining:  
+- Human–Robot Interaction (HRI) cockpit and teleoperation stations  
+- Space habitat and spacecraft cockpit ergonomics  
+- VR affordance design and spatial invitation cues  
+- SPACE CHI-style frameworks on space readiness, immersion, and environmental evaluation  
+
+**Output:** Annotated bibliographies, design principles, and research gaps.
+
+---
+
+### Phase 2 — Ecological Validity & Space-Readiness Pilot  
+A preliminary VR study testing:  
+- Whether VR environments can reliably simulate cockpit approach and entry  
+- How immersion, presence, and spatial cues influence “readiness to enter”  
+- Which metrics from SPACE CHI (e.g., immersion factors, spatial pressure, comfort, readiness scales) can be adapted for cockpit contexts  
+
+**Output:** Validated metrics for the main study + refined design requirements.
+
+---
+
+### Phase 3 — VR Cockpit Prototype Development  
+Creation of multiple cockpit concepts varying in:  
+- Visual openness (open, semi-closed, enclosed)  
+- Control metaphors (manual controls, hybrid, gestural)  
+- Environmental mood (lighting, color, sound cues)  
+- Narrative framing (robotic, space exploration, civilian, military)  
+
+Unity will be used to build immersive, interactive prototypes.
+
+**Output:** A VR experimental suite with 3–5 cockpit designs.
+
+---
+
+### Phase 4 — Evaluation  
+A mixed-methods study measuring:  
+- **Willingness to enter** (quantitative choices + behavioral time-to-enter)  
+- **Perceived safety, comfort, trust, readiness** (SPACE CHI-inspired scales)  
+- **Affective response** to cockpit variations  
+- **Interviews** exploring decision-making and perceptual cues  
+
+**Output:** Insights into what encourages cockpit entry + design guidelines.
+
+---
+
+## Tools & Technologies
+- **Unity (XR Interaction Toolkit, URP/HDRP)**
+- **Meta Quest or PCVR setup**
+- **Python or R for quantitative data analysis**
+- **Qualitative coding (Thematic Analysis)**
+
+---
+
+## License
+Released under the **MIT License** to support open research, replication, and derivative work.
+
+---
+
+## Contact
+For questions, collaboration, or data requests, please reach out to \<your email\>.

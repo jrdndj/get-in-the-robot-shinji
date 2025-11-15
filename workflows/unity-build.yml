@@ -1,0 +1,11 @@
+name: Unity Build
+
+on: [push]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Unity Build
+        run: echo "Add your Unity build steps here"
